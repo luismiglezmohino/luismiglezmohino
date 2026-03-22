@@ -61,7 +61,16 @@ Sistema de Comunicación Aumentativa y Alternativa (SAAC) que transforma pictogr
 
 ### [AI Dev Agents](https://github.com/luismiglezmohino/ai-dev-agents) — Sistema de agentes IA para desarrollo
 
-Sistema agnóstico de agentes para desarrollo asistido por IA. 11 agentes especializados + 1 orchestrator con verificación cruzada. Soporta Clean Architecture, MVC, MVVM y None (~90% de todos los proyectos de software: web, mobile y CLI). Skills framework-específicos, hooks de memoria automática, prompts reutilizables (bootstrap, Feature Specs/SDD, code review). Compatible con Claude Code, OpenCode, Antigravity (Google), Gemini CLI, Codex CLI (OpenAI), Continue (VS Code), Cursor, Windsurf y Copilot.
+Sistema agnóstico de agentes para desarrollo asistido por IA. Nació del sistema de agentes usado en mi proyecto de fin de máster, mejorado con las lecciones aprendidas y extraído como proyecto independiente.
+
+| Aspecto | Detalle |
+|---|---|
+| **Agentes** | 11 especializados + 1 orchestrator con verificación cruzada |
+| **Arquitectura** | Clean, MVC, MVVM y None (~90% de proyectos software) |
+| **Memoria** | Hooks automáticos entre sesiones + decisions.md auto-cargado |
+| **SDD** | Feature Specs con exploración, propuesta, diseño y plan por fases |
+| **Herramientas** | 9 compatibles — sin vendor lock-in, configs pre-generadas |
+| **Licencia** | Apache 2.0 |
 
 ## Formación
 

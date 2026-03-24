@@ -51,7 +51,7 @@ Sistema de Comunicación Aumentativa y Alternativa (SAAC) que transforma pictogr
 |---|---|
 | **Stack** | Symfony 7 + Vue.js 3 + TypeScript + PostgreSQL + Docker |
 | **Tests** | 684 (400 PestPHP + 263 Vitest + 21 Playwright E2E) |
-| **Proceso** | 96 PRs, 15 ADRs, 4 workflows CI/CD, conventional commits |
+| **Proceso** | 102 PRs, 15 ADRs, 4 workflows CI/CD, conventional commits |
 | **Arquitectura** | Clean Architecture en backend y frontend |
 | **Accesibilidad** | WCAG 2.2 AA, Lighthouse 98/100/100/91 |
 | **IA** | Groq LLM multi-provider con caché inteligente |
@@ -77,7 +77,7 @@ Sistema agnóstico de agentes para desarrollo asistido por IA. Nació del sistem
 **Titulaciones:**
 - **Máster en Desarrollo con IA** — BIG school + Universidad Isabel I (2026)
   - Doble titulación (certificación profesional + universitaria, 6 ECTS)
-  - +200 horas, +80 módulos: Fundamentos, Ingeniería, Arquitectura, IA, Calidad, Seguridad (OWASP), Infraestructura/Cloud
+  - +200 horas, 10 fases, 59 asignaturas: Fundamentos del Desarrollo, Ingeniería de Software, Arquitectura, Fundamentos de IA, Herramientas, Flujo de Desarrollo con IA, Calidad, Infraestructura y Cloud, Seguridad, Desarrollo Potenciado por IA
 - **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - **Técnico en Sistemas Microinformáticos y Redes (SMR)**
 

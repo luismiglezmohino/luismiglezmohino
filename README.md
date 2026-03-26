@@ -65,7 +65,7 @@ Sistema agnóstico de agentes para desarrollo asistido por IA. Nació del sistem
 
 | Aspecto | Detalle |
 |---|---|
-| **Agentes** | 11 especializados + 1 orchestrator con verificación cruzada |
+| **Agentes** | 12 especializados + 1 orchestrator con verificación cruzada |
 | **Arquitectura** | Clean, MVC, MVVM y None (~90% de proyectos software) |
 | **Memoria** | Hooks automáticos entre sesiones + decisions.md auto-cargado |
 | **SDD** | Feature Specs con exploración, propuesta, diseño y plan por fases |
